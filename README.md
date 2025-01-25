@@ -14,7 +14,7 @@
 - 🌱 **Currently Learning:**  
   - 🧩 **Data Structures and Algorithms in C++**  
   - 🤖 **Express.js** for backend development  
-  - 🛠️ **Postman** for API testing and integration  
+   
 
 - 💡 Exploring the world of **Full-Stack Development** and building impactful projects.  
 - 💞️ I’m open to collaborations on:  
