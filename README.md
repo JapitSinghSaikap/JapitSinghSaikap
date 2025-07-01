@@ -5,15 +5,16 @@
 ---
 
 ## 👀 About Me:  
-- 🌟 **A 2nd-year student pursuing a B.Tech in Computer Science.**  
+- 🌟 **A 3rd-year student pursuing a B.Tech in Computer Science.**  
 - 🚀 Passionate about solving coding problems on:  
   - 💻 **LeetCode**  
   - 🍀 **HackerRank**  
-  - ⌨️ **Codeforces**  
+  - ⌨️ **Codeforces**
+  - 🍀 **CodeChef**
 
 - 🌱 **Currently Learning:**  
-  - 🧩 **Data Structures and Algorithms in C++**  
-  - 🤖 **Express.js** for backend development  
+  - 🧩 **Data Structures and Algorithms in Java**  
+  - 🤖 **Swift** for IOS development  
    
 
 - 💡 Exploring the world of **Full-Stack Development** and building impactful projects.  
