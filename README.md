@@ -1,88 +1,104 @@
-# 👋 Hi, I’m @Japit Singh
-
-![Animated GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
----
-
-## 👀 About Me:
-- 🌟 **A 3rd-year student pursuing a B.Tech in Computer Science.**
-- 🚀 Passionate about solving coding problems on:
-  - 💻 **LeetCode**
-  - 🍀 **HackerRank**
-  - ⌨️ **Codeforces**
-  - 🍀 **CodeChef**
-- 🌱 **Currently Learning:**
-  - 🧩 **Data Structures and Algorithms in Java**
-  - 🤖 **Swift** for iOS development  
-- 💡 Exploring the world of **Full-Stack Development** and building impactful projects.
-- 💞️ I’m open to collaborations on:
-  - **Web Development Projects**
-  - **Open Source Contributions**
-
----
-
-## 📊 Languages & Tools
-
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+# JAPIT SINGH
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-</p>
+Full Stack Developer • iOS Developer • Problem Solver
 
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### ☁️ Deployment
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me:
-- 📬 **Email:** singhjap302@gmail.com  
-- 💼 **LinkedIn:** [Japit Singh](https://www.linkedin.com/in/japit-singh-118b6a27b/)  
-- 🧑‍💻 **GitHub:** [@JapitSinghSaikap](https://github.com/JapitSinghSaikap)  
+## About
+
+Computer Science student focused on building scalable applications and solving algorithmic problems.
+
+- B.E Computer Science — Chitkara University  
+- 300+ problems solved on LeetCode  
+- Captain — University Basketball Team  
+- Dean’s List Awardee  
+
+Current interests:
+
+- MERN Stack Development  
+- iOS Development (Swift, SwiftUI)  
+- Data Structures and Algorithms  
 
 ---
 
-## ⚡ Fun Facts:
-- 🧙‍♂️ I have a scar on my forehead like Harry Potter!  
-- 🎮 I unwind by playing video games and solving logic puzzles.  
-- 🌍 Always curious about learning new technologies and enhancing my coding skills.
+## Internship Experience
 
-![Harry Potter GIF](https://github.com/user-attachments/assets/2501f392-10af-4aeb-8a64-bebe56b72a23)
+### iOS Developer Intern — Infosys, Mysore  
+Dec 2025 – Jan 2026
+
+- Built a Hospital Management System using Swift and SwiftUI  
+- Implemented MVVM architecture  
+- Integrated Supabase authentication and database  
+- Implemented CoreML models for intelligent workflows  
+- Worked in Agile Scrum environment using Jira  
+- Best Project Award among all internship teams  
 
 ---
 
-### 🌟 Thank You for Visiting My Profile!
-Feel free to explore my repositories and ⭐ the projects you like!
+# Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,swift&perline=6"/>
+
+---
+
+### Web & Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,html,css,swift&perline=9"/>
+
+---
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vercel,supabase,vscode&perline=7"/>
+
+---
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
+
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:singhjap302@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/japit-singh-118b6a27b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JapitSinghSaikap">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-2tc6.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+Thanks for visiting the profile.
+
+</div>
