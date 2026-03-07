@@ -67,8 +67,6 @@ Dec 2025 – Jan 2026
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
 
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 </div>
 
 ---
