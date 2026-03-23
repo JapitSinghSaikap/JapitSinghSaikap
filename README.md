@@ -15,13 +15,15 @@ Full Stack Developer • iOS Developer • Problem Solver
 Computer Science student focused on building scalable applications and solving algorithmic problems.
 
 - B.E Computer Science — Chitkara University  
-- 300+ problems solved on LeetCode  
+- 600+ problems solved on LeetCode  
 - Captain — University Basketball Team  
 - Dean’s List Awardee  
+- iOS Developer Intern at Infosys
 
 Current interests:
 
 - MERN Stack Development  
+- Artifical Intelligence and Machine Learning
 - iOS Development (Swift, SwiftUI)  
 - Data Structures and Algorithms  
 
